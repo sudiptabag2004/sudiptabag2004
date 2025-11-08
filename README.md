@@ -18,7 +18,7 @@
 I'm a passionate developer who loves crafting elegant solutions to complex problems. My journey in tech revolves around building robust backend systems, high-performance applications, and seamless web experiences.
 
 - 🔭 Currently working on **innovative web applications with Next.js**
-- 🌱 Deepening my expertise in **system design and cloud architecture**
+- 🌱 Currently learning **.NET with Angular**
 - 💡 Passionate about **clean code, scalability, and performance optimization**
 - 🎯 2024 Goal: **Contribute to open-source projects and build impactful tools**
 - ⚡ Fun fact: **I debug with coffee and deploy with confidence ☕**
